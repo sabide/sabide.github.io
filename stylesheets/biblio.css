@@ -1,0 +1,6 @@
+span.journal {  margin-right:2px; }
+span.title, span.livre { font-style:italic; }
+span.conf { font-weight:bold; }
+span.author, span.year, span.title { font-style:normal; }
+span.author:after, span.year:after, span.title:after { content:", "; }
+span.abs { font-size: 90%; color: #999999; }
