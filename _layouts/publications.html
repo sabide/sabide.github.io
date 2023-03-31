@@ -1,0 +1,531 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="page">
+<style>
+    /*********************************
+     The list of publication items
+     *********************************/
+/* The list of items */
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
+
+/*************************************
+ The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid silver;
+	padding: 0em 1em;
+	background: #ffffee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+-->
+    </script>
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+
+
+
+<h4 style="margin-bottom:0px;padding-top:20px;">International Journals 2020-2023</h4>
+
+    <ul class="biblist">
+	   
+<li ><p>
+<b>A parameter study of strato-rotational low-frequency modulations: impacts on momentum transfer and energy distribution</b>
+<br> Meletti G., Abide S., Viazzo S., Harlander, U.<br>	
+<i>Philosophical Transactions of the Royal Society A,</i>
+<i>2023</i>
+<br />
+<a href="javascript:toggleBibtex('meletti2023')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_meletti2023" class="bibtex noshow">
+<pre>
+@article{meletti2023,
+  title={A parameter study of strato-rotational low-frequency modulations: impacts on momentum transfer and energy distribution},
+  author={Meletti, Gabriel and Abide, S and Viazzo, S and Harlander, U},
+  journal={Philosophical Transactions of the Royal Society A},
+  volume={381},
+  number={2246},
+  pages={20220297},
+  year={2023},
+  publisher={The Royal Society}
+}
+</pre>
+</div>
+</li>
+
+
+
+<li ><p>
+<b>Unified primal-dual active set method for dynamic frictional contact problems</b>
+<br> Abide S., Barboteu M., Cherkaoui S. and Dumont S.<br>	
+<i>Fixed Point Theory and Algorithms for Sciences and Engineering</i>
+<i>2022</i>
+<br />
+<a href="javascript:toggleBibtex('abide2022')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_abide2022" class="bibtex noshow">
+  <pre>
+  @article{abide2022,
+  title={},
+  author={Abide, St{\'e}phane and Barboteu, Mika{\"e}l and Cherkaoui, Soufiane and Dumont, Serge},
+  journal={Fixed Point Theory and Algorithms for Sciences and Engineering},
+  volume={2022},
+  number={1},
+  pages={1--22},
+  year={2022},
+  publisher={SpringerOpen}
+}
+</pre>
+</div>
+</li>
+
+
+<li ><p>
+<b>High-order compact scheme finite difference discretization for Signorini's problem</b>
+<br> Abide S., Mansouri W., Cherkaoui S. and Cheng X.<br>	
+<i>International Journal of Computer Mathematics</i>
+<i>2021</i>
+<br />
+<a href="javascript:toggleBibtex('abide2021')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_abide2021" class="bibtex noshow">
+  <pre>
+  @article{abide2021,
+  title={High-order compact scheme finite difference discretization for Signorini's problem},
+  author={Abide, St{\'e}phane and Mansouri, W and Cherkaoui, Soufiane and Cheng, X},
+  journal={International Journal of Computer Mathematics},
+  volume={98},
+  number={3},
+  pages={580--591},
+  year={2021},
+  publisher={Taylor \& Francis}
+}
+</pre>
+</div>
+</li>
+
+<li ><p>
+<b>Experiments and long-term high-performance computations on amplitude modulations of strato-rotational flows</b>
+<br> Meletti G., Abide S., Viazzo S.,  Krebs A. and Harlander U.<br>	
+<i>Geophysical \& Astrophysical Fluid Dynamics</i>
+<i>2021</i>
+<br />
+<a href="javascript:toggleBibtex('meletti2021')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_meletti2021" class="bibtex noshow">
+  <pre>
+    @article{meletti2021,
+  title={Experiments and long-term high-performance computations on amplitude modulations of strato-rotational flows},
+  author={Meletti, Gabriel and Abide, St{\'e}phane and Viazzo, Stephane and Krebs, Andreas and Harlander, Uwe},
+  journal={Geophysical \& Astrophysical Fluid Dynamics},
+  volume={115},
+  number={3},
+  pages={297--321},
+  year={2021},
+  publisher={Taylor \& Francis}
+}
+</pre>
+</div>
+</li>
+
+
+<li ><p>
+<b>Inexact primal--dual active set method for solving elastodynamic frictional contact problems</b>
+<br>Abide S., Barboteu M., Cherkaoui S., Danan D. and Dumont S.<br>	
+<i>Computers \& Mathematics with Applications</i>
+<i>2021</i>
+<br />
+<a href="javascript:toggleBibtex('abide2021')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_abide2021" class="bibtex noshow">
+  <pre>
+    @article{abide2021,
+    title={Inexact primal--dual active set method for solving elastodynamic frictional contact problems},
+    author={Abide, St{\'e}phane and Barboteu, Mika{\"e}l and Cherkaoui, Soufiane and Danan, David and Dumont, Serge},
+    journal={Computers \& Mathematics with Applications},
+    volume={82},
+    pages={36--59},
+    year={2021},
+    publisher={Elsevier}
+    }
+</pre>
+</div>
+</li>
+
+
+<li ><p>
+<b>A Dynamical Method for Solving the Obstacle Problem.</b>
+<br>Ran Q., Cheng, X and Abide S.<br>	
+<i>Numerical Mathematics: Theory, Methods \& Applications</i>
+<i>2020</i>
+<br />
+<a href="javascript:toggleBibtex('ran2020')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_ran2020" class="bibtex noshow">
+  <pre>
+@article{ran2020,
+  title={A Dynamical Method for Solving the Obstacle Problem.},
+  author={Ran, Qinghua and Cheng, Xiaoliang and Abide, St{\'e}phane},
+  journal={Numerical Mathematics: Theory, Methods \& Applications},
+  volume={13},
+  number={2},
+  year={2020}
+}
+</pre>
+</div>
+</li>
+
+
+
+<li ><p>
+<b>Finite difference preconditioning for compact scheme discretizations of the Poisson equation with variable coefficients</b>
+<br>Abide S.<br>	
+<i>Journal of Computational and Applied Mathematics</i>
+<i>2020</i>
+<br />
+<a href="javascript:toggleBibtex('ran2020')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_ran2020" class="bibtex noshow">
+  <pre>
+@article{abide2020,
+  title={Finite difference preconditioning for compact scheme discretizations of the Poisson equation with variable coefficients},
+  author={Abide, St{\'e}phane},
+  journal={Journal of Computational and Applied Mathematics},
+  volume={379},
+  pages={112872},
+  year={2020},
+  publisher={North-Holland}
+}
+</pre>
+</div>
+</li>
+
+</ul>
+
+
+
+<h4 style="margin-bottom:0px;padding-top:20px;">International Journals before 2015-2020</h4>
+<ul class="biblist">
+
+
+
+
+<li ><p>
+<b>Higher-order compact scheme for high-performance computing of stratified rotating flows</b>
+<br>Abide S., Viazzo S., Raspo I. and Randriamampianina A.<br>	
+<i>Computers \& Fluids</i>
+<i>2018</i>
+<br />
+<a href="javascript:toggleBibtex('abide2018')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_abide2018" class="bibtex noshow">
+  <pre>
+@article{abide2018,
+  title={Higher-order compact scheme for high-performance computing of stratified rotating flows},
+  author={Abide, St{\'e}phane and Viazzo, St{\'e}phane and Raspo, Isabelle and Randriamampianina, Anthony},
+  journal={Computers \& Fluids},
+  volume={174},
+  pages={300--310},
+  year={2018},
+  publisher={Pergamon}
+}
+
+</pre>
+</div>
+</li>
+
+<li ><p>
+<b>Inclination effects on heat transfer by an oscillating square cylinder in channel flow</b>
+<br>Derouich Y.,Nasri Z., Abide S. and Laatar A.H.<br>	
+<i>International Journal of Heat and Mass Transfer</i>
+<i>2018</i>
+<br />
+<a href="javascript:toggleBibtex('derouich2018')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_derouich2018" class="bibtex noshow">
+  <pre>
+@article{derouich2018,
+  title={Inclination effects on heat transfer by an oscillating square cylinder in channel flow},
+  author={Derouich, Y and Nasri, Z and Abide, S and Laatar, AH},
+  journal={International Journal of Heat and Mass Transfer},
+  volume={125},
+  pages={1105--1120},
+  year={2018},
+  publisher={Pergamon}
+}
+  
+</pre>
+</div>
+</li>
+
+<li ><p>
+<b>An efficient parallel high-order compact scheme for the 3D incompressible Navier--Stokes equations</b>
+<br>Abide S., Binous M.S. and Zeghmati B.<br>	
+<i>International Journal of Computational Fluid Dynamics</i>
+<i>2017</i>
+<br />
+<a href="javascript:toggleBibtex('abide2017')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_abide2017" class="bibtex noshow">
+  <pre>
+@article{abide2017efficient,
+  title={An efficient parallel high-order compact scheme for the 3D incompressible Navier--Stokes equations},
+  author={Abide, St{\'e}phane and Binous, MS and Zeghmati, B},
+  journal={International Journal of Computational Fluid Dynamics},
+  volume={31},
+  number={4-5},
+  pages={214--229},
+  year={2017},
+  publisher={Taylor \& Francis}
+}
+</pre>
+</div>
+</li>
+
+
+
+<li ><p>
+<b>Numerical study of non-Boussinesq convection in a ventilated cavity</b>
+<br>Chabani O., Abide S.,Lamrous N. and Zeghmati B.<br>	
+<i>Computational Thermal Sciences: An International Journal</i>
+<i>2018</i>
+<br />
+<a href="javascript:toggleBibtex('chabani2017')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_chabani2017" class="bibtex noshow">
+  <pre>
+@article{chabani2017,
+  title={Numerical study of non-Boussinesq convection in a ventilated cavity},
+  author={Chabani, Oussama and Abide, St{\'e}phane and Lamrous, Nacer and Zeghmati, Belkacem},
+  journal={Computational Thermal Sciences: An International Journal},
+  volume={9},
+  number={2},
+  pages={135--149},
+  year={2017}
+}
+
+</pre>
+</div>
+</li>
+
+<li ><p>
+<b>Multigrid defect correction and fourth-order compact scheme for Poisson’s equation</b>
+<br>Abide S. and Zeghmati B.<br>	
+<i>Computers \& Mathematics with Applications</i>
+<i>2017</i>
+<br />
+<a href="javascript:toggleBibtex('chabani2017')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_abide2017" class="bibtex noshow">
+  <pre>
+@article{abide2017multigrid,
+  title={Multigrid defect correction and fourth-order compact scheme for Poisson’s equation},
+  author={Abide, St{\'e}phane and Zeghmati, Belkacem},
+  journal={Computers \& Mathematics with Applications},
+  volume={73},
+  number={7},
+  pages={1433--1444},
+  year={2017},
+  publisher={Pergamon}
+}
+</pre>
+</div>
+</li>
+
+
+
+<li ><p>
+<b>The effects of step inclination and air injection on the water flow in a stepped spillway: A numerical study</b>
+<br>Kherbache K., Chesneau X., Zeghmati B., Abide S. and Benmamar S.<br>	
+<i>Journal of Hydrodynamics, Ser. B</i>
+<i>2017</i>
+<br />
+<a href="javascript:toggleBibtex('kherbache2017')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_kherbache2017" class="bibtex noshow">
+  <pre>
+@article{kherbache2017,
+  title={The effects of step inclination and air injection on the water flow in a stepped spillway: A numerical study},
+  author={Kherbache, Khadidja and Chesneau, Xavier and Zeghmati, Belkacem and Abide, St{\'e}phane and Benmamar, Sa{\^a}dia},
+  journal={Journal of Hydrodynamics, Ser. B},
+  volume={29},
+  number={2},
+  pages={322--331},
+  year={2017},
+  publisher={Elsevier}
+}
+
+}
+  
+</pre>
+</div>
+</li>
+
+
+
+<li ><p>
+<b>Analysis of two active set type methods to solve unilateral contact problems</b>
+<br>Abide S.,  Barboteu M. and Danan D.<br>	
+<i>Applied Mathematics and Computation</i>
+<i>2016</i>
+<br />
+<a href="javascript:toggleBibtex('abide2016')">[BibTeX]</a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0297" target="_blank">[PDF]</a>
+</p>
+<div id="bib_abide2016" class="bibtex noshow">
+  <pre>
+
+  @article{abide2016,
+  title={Analysis of two active set type methods to solve unilateral contact problems},
+  author={Abide, St{\'e}phane and Barboteu, Mika{\"e}l and Danan, David},
+  journal={Applied Mathematics and Computation},
+  volume={284},
+  pages={286--307},
+  year={2016},
+  publisher={Elsevier}
+}
+
+</pre>
+</div>
+</li>
+
+
+
+
+</ul>	   
+
+
+    
+
+<h4 style="margin-bottom:0px;padding-top:20px;">International Conferences</h4>
+
+    <ul class="biblist">
+<li ><p>
+<b> PointMixer: MLP-Mixer for Point Cloud Un-
+derstanding </b>
+<br> J. Choe, C. Park, <b>F. Rameau</b>, J. Park, I. Kweon <br>	
+<i>European Conference on Computer Vision (ECCV) </i><i> 2022</i>
+<br />
+</p>
+</li>	  
+</ul>
+
+<h4 style="margin-bottom:0px;padding-top:20px;">Theses</h4>
+    
+    <ul class="biblist">
+		
+		<li ><p>
+            <b>Système de vision hybride à fovéation pour la vidéo-surveillance et la navigation robotique</b>
+	    <br> 
+	    <i> Ph.D Thesis - University of Burgundy, Dec 2014</i>
+            <br />
+            <a href="javascript:toggleBibtex('rameau2014systeme')">[BibTeX]</a>
+		<a href="https://tel.archives-ouvertes.fr/tel-01128289/file/2014DIJOS031.pdf" target="_blank">[PDF]</a>
+		</p>
+<div id="bib_rameau2014systeme" class="bibtex noshow">
+<pre>
+@phdthesis{rameau2014systeme,
+  title={Syst{\`e}me de vision hybride {\`a} fov{\'e}ation pour la vid{\'e}o-surveillance et la navigation robotique},
+  author={Rameau, Fran{\c{c}}ois},
+  year={2014},
+  school={Universit{\'e} de Bourgogne}
+}
+</pre>
+</div>
+        </li>
+
+        <li ><p>
+            <b>Visual tracking using catadioptric sensors</b>
+	    <br> 
+	    <i> Master Thesis - Erasmus Mundus in Vision and Robotics (VIBOT), Jun 2011</i>
+            <br />
+        </li>
+    </ul>
+    
+   
+    </div><!-- /.article-wrap -->
+    {% if site.disqus_shortname and page.comments %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}          
+
+</body>
+</html>
