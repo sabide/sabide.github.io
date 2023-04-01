@@ -31,10 +31,10 @@ links:
     url: /publications/
   - title: Research Interest
     url: /projects/
-  - title: Teaching
-    url: /teaching/
-  - title: Resume
-    url: /pdf/CV_Francois_Rameau-20-09-2022.pdf
+#  - title: Teaching
+#    url: /teaching/
+#  - title: Resume
+#    url: /pdf/CV_Francois_Rameau-20-09-2022.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #timezone:    Europe/Zurich
