@@ -9,13 +9,16 @@ comments: false
 
 ---
 <br>
-### Connected vehicles
+### High-Perpformance Computing for Simulation
 ----
 
 <div class="post-container"> 
     <div class="post-content">
         <h3 class="post-title">The see-through system</h3>
-        <p>In this collaboration with Bosch, we propose a real-time marker-less system to see through cars. For this purpose, two cars are equipped with cameras and an appropriate wireless communication system. The stereo vision system mounted on the front car allows to create a sparse 3D map of the environment where the rear car can be localized. Using this inter-car pose estimation, a synthetic image is generated to overcome the occlusion and to create a seamless see-through effect which preserves the structure of the scene. 
+        <p>In this collaboration with Bosch, we propose a real-time marker-less system to see through cars.
+		For this purpose, two cars are equipped with cameras and an appropriate wireless communication system.
+		The stereo vision system mounted on the front car allows to create a sparse 3D map of the environment where the rear car can be localized.
+		Using this inter-car pose estimation, a synthetic image is generated to overcome the occlusion and to create a seamless see-through effect which preserves the structure of the scene. 
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=RYzgyOgVzM4">[Video]</a> 
 <a href="https://www.researchgate.net/publication/305695638_A_Real-time_Augmented_Reality_System_to_See-Through_Cars">[TVCG16, </a>
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-48881-3_15">ECCVW16]</a>
