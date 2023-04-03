@@ -9,14 +9,14 @@ I am an Associate Research Professor in Fluids mechanics in the laboratory [LAMP
 I am interested in the numerical simulation of multi-scale incompressible flows which require important computation ressources.
 I try to bring together accurate discretizations with modern high-performance computing...
 
-## Research interests:
+### Research interests:
 * Fluid mechanics
 * High Performance Computing
 * Granular media
 * Instabilities in stratified rotating flow
 
 
-## Education
+### Education
 
 **2001** : School of engineering (Master degree ) in  *Energy and Process Engineerings*, Ecole Nationale Supérieure d'Ingénieurs de Poitiers
 
@@ -26,7 +26,7 @@ I try to bring together accurate discretizations with modern high-performance co
 
 **2022** : Habilitation à Diriger des Recherches, Université Perpignan Via Domitia
 
-## Professional experience
+### Professional experience
 
 **2005-2006**: Postdoc at Université de Nantes and Centre de Calcul Intensive des Pays de la Loire,  *Nantes*
 
@@ -34,7 +34,7 @@ I try to bring together accurate discretizations with modern high-performance co
 
 **2008-date**: Associate professor, Université Perpignan Via Domitia/LAMPS, *Perpignan* 
 
-## Some recent responsibilities
+### Some recent responsibilities
 
 **2021-date**  Coordinator  of the  Master-1 *High Performance Computing & Simulation*
 
@@ -48,7 +48,7 @@ a
 
 **2014-2022** Nominated laboratory board member of LAMPS
 
-# Teaching
+### Teaching
 
 Principal teacher of several courses in fluid mechanics (Fundamentals of Fluid Mechanics, Hydraulics, Aerodynamics, Gasdynamics, Computational Fluid Dynamics, Turbulence, Turbulence modelling),
 applied mathematics (Numerical Analysis, Fundamentals of Statistics, Calculus, Uncertainty Quantification) and energetics (Thermal Power Systems, Renewable Energies)
@@ -57,10 +57,10 @@ In the past, I also gave courses in Italian and Spanish.
 
 <br>
 
-News:
-* 
-* 02/03 Seminar at LJAD Thank you for your welcome 
-* 
+### News:
+* Hackaton TERATEC is coming soon
+* Seminar at LJAD the 02/03: thank you for your welcome.
+
 
 
 
