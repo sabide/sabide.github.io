@@ -55,7 +55,7 @@ energetics (Thermodynamics, Renewable Energies) and applied mathematics / HPC (s
 
 <br>
 
-### aNews:
+### News:
 * Hackaton TERATEC is coming soon.
 * Seminar at LJAD the 02/03: thank you for your welcome.
 

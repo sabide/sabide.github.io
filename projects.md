@@ -50,7 +50,6 @@ So it remains a challenge to solve elliptical sss problems optimally with modern
 		<p>
 		Even if I have a preference for compact schemes, I have to admit that the exponential accuracy and pseudo-spectra of spectral methods are really nice.
 		For the last few months I have been working on the spectral collocation method in HOCS^3 and have made some comparisons in a differentially heated turbulent cavity.
-		Nice results have been 
 		</p>
 <br />
 
