@@ -36,28 +36,26 @@ I am an Associate Research Professor in Fluids mechanics in the laboratory [LAMP
 
 **2008-date**: Associate professor, Université Perpignan Via Domitia/LAMPS, *Perpignan* 
 
-## Some responsibilities (last 5 years)
+## Some responsibilities
 
-2016-2019: Coordinator of the ENSAM Research Network « Computational Science and Engineering »
+**2021-date**  Responsable Pédagogique Master-1 Calcul Haute Performance mention Simulation,
 
-2018-2020: Member and vice-President of the board of Directors (Conseil d’Administration) of Arts et Métiers Paris Tech. Vice-President.
+**2020-date** Président adjoint de la section disciplinaire des usagers -UPVD-,
 
-March 2022-: Member of the Counsel of Department of undergraduate studies in Mechanics, Sorbonne University.
+**2020-2022** Membre élu au CACR siège collège MdC non-Hdr,
 
-October 2022-: Assistant of the vice-dean for Research and Innovation of the Faculty of Sciences and Engineering (Engineering portfolio).
+**2020-2022** Membre nommé Conseil restreint (IUT),
 
-Main editorial and dissemination activities (last 5 years)
+**2019-2021** Responsable projets de synthèse puis stages du M2-CHPS -UFR SEE-,
 
-Associate Editor, International Journal of Heat and Fluid Flow, March 2023-
-
-Associate Editor, Computers & Fluids, Mai 2022-
-
-
-Coordinator of the ERCOFTAC Special Interest Group 54 "Machine Learning in Fluid Dynamics" (https://www.ercoftac.org/special_interest_groups/54-machine-learning-for-fluid-dynamics/)
+**2014-2022** Membre élu au Conseil de laboratoire,
 
 # Teaching
 
-Principal teacher of several courses in fluid mechanics (Fundamentals of Fluid Mechanics, Hydraulics, Aerodynamics, Gasdynamics, Computational Fluid Dynamics, Turbulence, Turbulence modelling), applied mathematics (Numerical Analysis, Fundamentals of Statistics, Calculus, Uncertainty Quantification) and energetics (Thermal Power Systems, Renewable Energies) since 2001 (more than 4000 hours of teaching experience, Bachelor, Master of Engineering, Master of Science and Doctoral levels). Most of my courses are taught in French and in English. In the past, I also gave courses in Italian and Spanish.
+Principal teacher of several courses in fluid mechanics (Fundamentals of Fluid Mechanics, Hydraulics, Aerodynamics, Gasdynamics, Computational Fluid Dynamics, Turbulence, Turbulence modelling),
+applied mathematics (Numerical Analysis, Fundamentals of Statistics, Calculus, Uncertainty Quantification) and energetics (Thermal Power Systems, Renewable Energies)
+since 2001 (more than 4000 hours of teaching experience, Bachelor, Master of Engineering, Master of Science and Doctoral levels). Most of my courses are taught in French and in English.
+In the past, I also gave courses in Italian and Spanish.
 
 <br>
 
