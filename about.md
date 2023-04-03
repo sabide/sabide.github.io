@@ -36,19 +36,19 @@ I am an Associate Research Professor in Fluids mechanics in the laboratory [LAMP
 
 **2008-date**: Associate professor, Université Perpignan Via Domitia/LAMPS, *Perpignan* 
 
-## Some responsibilities
+## Some recent responsibilities
 
-**2021-date**  Responsable Pédagogique Master-1 Calcul Haute Performance mention Simulation,
+**2021-date**  Coordinator  of the  Master-1 *High Performance Computing & Simulation*
 
-**2020-date** Président adjoint de la section disciplinaire des usagers -UPVD-,
+**2020-date**  Second Deputy head of the Users' Disciplinary Section
 
-**2020-2022** Membre élu au CACR siège collège MdC non-Hdr,
-
-**2020-2022** Membre nommé Conseil restreint (IUT),
+**2020-2022** Member of the Research Council at Université de Perpignan
+a
+**2020-2022** Member of the IUT Council
 
 **2019-2021** Responsable projets de synthèse puis stages du M2-CHPS -UFR SEE-,
 
-**2014-2022** Membre élu au Conseil de laboratoire,
+**2014-2022** Nominated laboratory board member of LAMPS
 
 # Teaching
 
