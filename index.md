@@ -1,37 +1,67 @@
 ---
 layout: home2
-title: Welcome!
+title: About me !
 description: "Personal web page"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
+I am an Associate Research Professor in Fluids mechanics in the laboratory [LAMPS](https://lamps.univ-perp.fr/).
+I am interested in the numerical simulation of multi-scale incompressible flows which require important computation ressources.
+I try to bring together accurate discretizations with modern high-performance computing...
 
-I received my Master degree in Vision and Robotics ([VIBOT](https://www.vibot.org/), Erasmus mundus) from the [University of Burgundy](https://en.u-bourgogne.fr/) in 2011. I completed my PhD degree in December 2014 under the joined supervision of Prof. [David Fofi](http://www.davidfofi.net/), Prof. [Cedric Demonceaux](http://vibot.cnrs.fr/ceacutedric-demonceaux.html) and Prof. [Desire Sidibe](https://sites.google.com/view/dsidibe/). In 2015, I worked as a full time postdoctoral researcher in KAIST (Daejeon, South Korea). I am nowadays an Associate Research Professor in the [Robotics and Computer Vision (RCV) laboratory](http://rcv.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr).
+### Research interests:
+* Fluid mechanics
+* High Performance Computing
+* Granular media
+* Instabilities in stratified rotating flow
+
+
+### Education
+
+**2001** : School of engineering (Master degree ) in  *Energy and Process Engineerings*, Ecole Nationale Supérieure d'Ingénieurs de Poitiers
+
+**2002** : DEA (Master of Science) in Computational Fluid Dynamic, Ecole Centrale Nantes
+
+**2005** : PhD in ‘Fluid Mechanics' at Ecole des Mines de Nantes
+
+**2022** : Habilitation à Diriger des Recherches, Université Perpignan Via Domitia
+
+### Professional experience
+
+**2005-2006**: Postdoc at Université de Nantes and Centre de Calcul Intensive des Pays de la Loire,  *Nantes*
+
+**2006-2008**: Research Engineer, Commisariat à l'Energie Atomique / CSGroup, *Saclay*
+
+**2008-date**: Associate professor, Université Perpignan Via Domitia/LAMPS, *Perpignan* 
+
+### Some recent responsibilities
+
+**2021-date**  Coordinator  of the  Master-1 *High Performance Computing & Simulation*
+
+**2020-date**  Second Deputy head of the Users' Disciplinary Section
+
+**2020-2022** Member of the Research Council at Université de Perpignan
+a
+**2020-2022** Member of the IUT Council
+
+**2019-2021** Responsable projets de synthèse puis stages du M2-CHPS -UFR SEE-,
+
+**2014-2022** Nominated laboratory board member of LAMPS
+
+### Teaching
+
+Principal teacher of several courses in fluid mechanics (Fundamentals of Fluid Mechanics, Hydraulics, Aerodynamics, Gasdynamics, Computational Fluid Dynamics, Turbulence, Turbulence modelling),
+applied mathematics (Numerical Analysis, Fundamentals of Statistics, Calculus, Uncertainty Quantification) and energetics (Thermal Power Systems, Renewable Energies)
+since 2001 (more than 4000 hours of teaching experience, Bachelor, Master of Engineering, Master of Science and Doctoral levels). Most of my courses are taught in French and in English.
+In the past, I also gave courses in Italian and Spanish.
 
 <br>
 
-Research interests:
-* 3D reconstruction
-* Deep learning
-* cooperative robotics
-* Omnidirectional vision
+### News:
+* Hackaton TERATEC is coming soon
+* Seminar at LJAD the 02/03: thank you for your welcome.
 
-<br>
 
-News:
-* I am serving as a guest editor for MDPI Sensors on the topic of ["Multi-Sensor and Multi-Modal Place Localization"](https://www.mdpi.com/journal/sensors/special_issues/SWV4V826AE)
-* One accepted paper to ECCV 2022
-* One IJCV in collaboration with Seokju Lee (Kentech)
-* One paper accepted to ICLR 2022
-* Our calibration toolbox MC-Calib has been published in CVIU
-* One paper published in IJCV
-* Two ICCV 2021 papers accepted
-* One paper accepted to ICRA 2021
-* Two AAAI 2021 papers accepted thanks to the wonderful work a Dawit Mureja
-* One WACV 2021 accepted
-* Our Book chapter on Deep-learning based 3D vision has been published!
-* One CVPR 2020 (Oral) paper acceptance, Congratulations to Fei for his hard word on domain adaptation
-* One ICRA 2020 accepted on RGB-D Slam
 
 
 
