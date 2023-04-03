@@ -29,7 +29,7 @@ So it remains a challenge to solve elliptical problems optimally with modern HPC
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-48881-3_15">ECCVW16]</a>
 
  </p></div>
-<div class="post-thumb"><img src="/images/STC-2.png" /></div>
+<div class="post-thumb"><img src="/images/GPU.png" /></div>
 </div>
 <br />
 
