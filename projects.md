@@ -23,7 +23,7 @@ So it remains a challenge to solve elliptical problems optimally with modern HPC
         <p>
 		For 5 years I have been developing a computational code dedicated to the high-performance numerical simulation of incompressible flows in shoeboxes ( referring to the computational domain).
 		With this specific tool for compact schemes one can solve the incompressible Naviers-Stokes equations in an *old school way*: semi implicit time scheme, full-staggered.
-		This allows me to test new ideas about compact schemes, especially the fact that they can be HPC-compliant rPDD (Abide,2017), (Abide,2018) .
+		This allows me to test new ideas about compact schemes, especially the fact that they can be HPC-compliant rPDD (Abide,2017), (Abide,2018),  (Abide,2020) .
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=RYzgyOgVzM4">[Video]</a> 
 <a href="https://www.researchgate.net/publication/305695638_A_Real-time_Augmented_Reality_System_to_See-Through_Cars">[TVCG16, </a>
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-48881-3_15">ECCVW16]</a>
