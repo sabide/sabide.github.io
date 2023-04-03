@@ -21,7 +21,7 @@ So it remains a challenge to solve elliptical problems optimally with modern HPC
     <div class="post-content">
         <h3 class="post-title"> HOCS-cube  a research code </h3>
         <p>
-		For 5 years I have been developing a computational code dedicated to the high-performance numerical simulation of incompressible flows in shoeboxes ( referring to the computational domain).
+		For 5 years I have been developing a computational code dedicated to the high-performance numerical simulation of incompressible flows in shoeboxes (referring to the computational domain).
 		With this specific tool for compact schemes one can solve the incompressible Naviers-Stokes equations in an *old school way*: semi implicit time scheme, full-staggered.
 		This allows me to test new ideas about compact schemes, especially the fact that they can be HPC-compliant rPDD (Abide,2017), (Abide,2018),  (Abide,2020) .
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=RYzgyOgVzM4">[Video]</a> 
