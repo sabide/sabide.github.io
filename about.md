@@ -24,29 +24,19 @@ I am an Associate Research Professor in Fluids mechanics in the laboratory [LAMP
 
 **2002** : DEA (Master of Science) in Computational Fluid Dynamic, Ecole Centrale Nantes
 
-**1999** : PhD in ‘Fluid Mechanics' at Ecole des Mines de Nantes
+**2005** : PhD in ‘Fluid Mechanics' at Ecole des Mines de Nantes
 
-**1999** : PhD in ‘Fluid Mechanics’ at ENSAM, « summa cum laude » (très honorable, felicitations du jury)
+**2022** : Habilitation à Diriger des Recherches, Université Perpignan Via Domitia
 
-**2006** : Habilitation à Diriger des Recherches, Université Pierre et Marie Curie, France
+## Professional experience
 
-# Professional experience
+**2005-2006**: Postdoc at Université de Nantes and Centre de Calcul Intensive des Pays de la Loire,  *Nantes*
 
-1999- 2000 : Attaché temporaire d’Enseignement et de Recherche (Lecturer) at l’ENSAM.
+**2006-2008**: Research Engineer, Commisariat à l'Energie Atomique / CSGroup, *Saclay*
 
-2000- 2001: Postdoc at Dipartimento di Ingegneria Meccanica e Gestionale, Politecnico di Bari, Italy.
+**2008-date**: Associate professor, Université Perpignan Via Domitia/LAMPS, *Perpignan* 
 
-2001-2008: Assistant professor, Università del Salento, Lecce, Italy
-
-2008- 2014 : Professor, ENSAM, Laboratoire DynFluid
-
-2014- 2015 : Associate professor, Università del Salento, Italy
-
-2015-2020: Professor, ENSAM, Laboratoire DynFluid
-
-2020-présent : Professor, Sorbonne Université, Institut Jean Le Rond D’Alembert
-
-# Some responsibilities (last 5 years)
+## Some responsibilities (last 5 years)
 
 2016-2019: Coordinator of the ENSAM Research Network « Computational Science and Engineering »
 
