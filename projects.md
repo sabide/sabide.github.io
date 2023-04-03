@@ -15,7 +15,7 @@ The compact finite difference formulation is a numerical discretisation used for
 This method is known for the small computation stencil  while allowing accurate approximations.
 The compact schemes has the advantage of favorable dispersive error and dissipative error properties when compared to explicit schemes.
 However, this method has a drawback as it is implicit and requires solving a diagonal matrix system to evaluate interpolations or derivatives at all grid points.
-So it remains a challenge to solve elliptical problems optimally with modern HPC... part of my work is devoted to this.
+So it remains a challenge to solve elliptical sss problems optimally with modern HPC... part of my work is devoted to this.
 
 <div class="post-container"> 
     <div class="post-content">
