@@ -50,14 +50,13 @@ a
 
 ### Teaching
 
-Principal teacher of several courses in fluid mechanics (Fundamentals of Fluid Mechanics, Hydraulics, Aerodynamics, Gasdynamics, Computational Fluid Dynamics, Turbulence, Turbulence modelling),
-applied mathematics (Numerical Analysis, Fundamentals of Statistics, Calculus, Uncertainty Quantification) and energetics (Thermal Power Systems, Renewable Energies)
-since 2001 (more than 4000 hours of teaching experience, Bachelor, Master of Engineering, Master of Science and Doctoral levels). Most of my courses are taught in French and in English.
-In the past, I also gave courses in Italian and Spanish.
+Principal teacher of several courses in  mechanics (Solid Mechanics, Introduction to Mechanical vibration),
+energetics (Thermodynamics, Renewable Energies) and applied mathematics / HPC ( solving large linear systems ) and 
+
 
 <br>
 
-### News:
+### aNews:
 * Hackaton TERATEC is coming soon
 * Seminar at LJAD the 02/03: thank you for your welcome.
 
