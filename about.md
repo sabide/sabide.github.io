@@ -7,7 +7,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 I am an Associate Research Professor in Fluids mechanics in the laboratory [LAMPS](https://lamps.univ-perp.fr/).
 
-Research interests:
+## Research interests:
 * Fluid mechanics
 * High Performance Computing
 * Granular media
@@ -18,17 +18,16 @@ Research interests:
 
 ## Research: Computational Fluid Dynamics, Compressible flows of ideal and real gases, data-driven modeling and uncertainty quantification of turbulent flows.
 
-# Education
+## Education
 
-** 1995 ** : Master degree in Mechanical Engineering « summa cum laude », Politecnico di Bari (Italy)
+**2002** : Master degree in Computational Fluid Dynamic, Ecole Centrale Nantes
+**2001** : DEA (Master of Science) in Computational Fluid Dynamic, Ecole Centrale Nantes
 
-1996 : DEA (Master of Science) in Mechanics from Ecole Nationale Supérieure des Arts et Métiers (ENSAM), France
+**1999** : PhD in ‘Engineering of Thermal Machines', Politecnico di Bari
 
-1999 : PhD in ‘Engineering of Thermal Machines', Politecnico di Bari
+**1999** : PhD in ‘Fluid Mechanics’ at ENSAM, « summa cum laude » (très honorable, felicitations du jury)
 
-1999 : PhD in ‘Fluid Mechanics’ at ENSAM, « summa cum laude » (très honorable, felicitations du jury)
-
-2006 : Habilitation à Diriger des Recherches, Université Pierre et Marie Curie, France
+**2006** : Habilitation à Diriger des Recherches, Université Pierre et Marie Curie, France
 
 # Professional experience
 
