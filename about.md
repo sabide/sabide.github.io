@@ -20,7 +20,9 @@ I am an Associate Research Professor in Fluids mechanics in the laboratory [LAMP
 
 ## Education
 
-**2002** : Master degree in Computational Fluid Dynamic, Ecole Centrale Nantes
+**2002** : Master degree in Computational Fluid Dynamic, Ecole
+Centrale Nantes
+
 **2001** : DEA (Master of Science) in Computational Fluid Dynamic, Ecole Centrale Nantes
 
 **1999** : PhD in ‘Engineering of Thermal Machines', Politecnico di Bari
