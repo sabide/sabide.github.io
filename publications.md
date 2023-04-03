@@ -1,5 +1,6 @@
 ---
 layout: publications
+classes: wide
 permalink: /publications/
 title: My Publications
 tags: [publications]
