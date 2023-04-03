@@ -13,13 +13,12 @@ I try to bring together accurate discretizations with modern high-performance co
 * Fluid mechanics
 * High Performance Computing
 * Granular media
-* Baroclinic instabiliti
+* Instabilities in stratified rotating flow
 
-## Research: Computational Fluid Dynamics, Compressible flows of ideal and real gases, data-driven modeling and uncertainty quantification of turbulent flows.
 
 ## Education
 
-**2001** : School of engineering (Master degree ) in  * Energy and Process Engineerings *, Ecole Nationale Supérieure d'Ingénieurs de Poitiers
+**2001** : School of engineering (Master degree ) in  *Energy and Process Engineerings*, Ecole Nationale Supérieure d'Ingénieurs de Poitiers
 
 **2002** : DEA (Master of Science) in Computational Fluid Dynamic, Ecole Centrale Nantes
 
