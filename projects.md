@@ -47,7 +47,8 @@ So it remains a challenge to solve elliptical sss problems optimally with modern
         <h3 class="post-title"> Spectral colocation  </h3>
 		<p>
 		Even if I have a preference for compact schemes, I have to admit that the exponential accuracy of spectral methods is really nice.
-		Since dec. 22 i'm porting spectral colocation method in HOCS^3.
+		Since dec. 22 i'm porting spectral colocation method in HOCS^3 and performed some comparisons in the workshop of.
+		
 		</p>
 <br />
 
