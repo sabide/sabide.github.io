@@ -14,10 +14,11 @@ comments: false
 
 <div class="post-container"> 
     <div class="post-content">
-        <h3 class="post-title"> Compact schemes a quasi-local </h3>
-        <p>In this collaboration with Bosch, we propose a real-time marker-less system to see through cars.
-		For this purpose, two cars are equipped with cameras and an appropriate wireless communication system.
-		The stereo vision system mounted on the front car allows to create a sparse 3D map of the environment where the rear car can be localized.
+        <h3 class="post-title"> Compact schemes between local and global approximation  </h3>
+        <p>
+			In this collaboration with Bosch, we propose a real-time marker-less system to see through cars.
+			For this purpose, two cars are equipped with cameras and an appropriate wireless communication system.
+		    The stereo vision system mounted on the front car allows to create a sparse 3D map of the environment where the rear car can be localized.
 		Using this inter-car pose estimation, a synthetic image is generated to overcome the occlusion and to create a seamless see-through effect which preserves the structure of the scene. 
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=RYzgyOgVzM4">[Video]</a> 
 <a href="https://www.researchgate.net/publication/305695638_A_Real-time_Augmented_Reality_System_to_See-Through_Cars">[TVCG16, </a>
