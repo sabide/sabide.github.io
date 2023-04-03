@@ -40,12 +40,16 @@ So it remains a challenge to solve elliptical sss problems optimally with modern
 		High performance computing is motivated by challenges in physics of fluids.
 	    Thanks to Uwe Harlander to demonstrate that the baroclinic reservoir can be a model for atmospheric flows. This flow is complex because it is multi-scale, with exchanges at the free surface that can modify the dynamics of the baroclinic wave...
 		</p>
-</div>
-<div class="post-thumb"><img src="/images/STC-2.png" /></div>
-</div>
-
 <br />
 
+<div class="post-container"> 
+    <div class="post-content">
+        <h3 class="post-title"> Spectral colocation  </h3>
+		<p>
+		High performance computing is motivated by challenges in physics of fluids.
+	    Thanks to Uwe Harlander to demonstrate that the baroclinic reservoir can be a model for atmospheric flows. This flow is complex because it is multi-scale, with exchanges at the free surface that can modify the dynamics of the baroclinic wave...
+		</p>
+<br />
 
 ---
 <br>
