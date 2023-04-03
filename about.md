@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 I am an Associate Research Professor in Fluids mechanics in the laboratory [LAMPS](https://lamps.univ-perp.fr/).
-I am interested in the numerical simulation of multi-scale flows which require large-scale simulation.
+I am interested in the numerical simulation of multi-scale incompressible flows which require important computation ressources.
 I try to bring together accurate discretizations with modern high-performance computing...
 
 ## Research interests:
@@ -14,9 +14,6 @@ I try to bring together accurate discretizations with modern high-performance co
 * High Performance Computing
 * Granular media
 * Baroclinic instabiliti
-
-
-
 
 ## Research: Computational Fluid Dynamics, Compressible flows of ideal and real gases, data-driven modeling and uncertainty quantification of turbulent flows.
 
