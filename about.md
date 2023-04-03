@@ -51,13 +51,12 @@ a
 ### Teaching
 
 Principal teacher of several courses in  mechanics (Solid Mechanics, Introduction to Mechanical vibration),
-energetics (Thermodynamics, Renewable Energies) and applied mathematics / HPC ( solving large linear systems ) and 
-
+energetics (Thermodynamics, Renewable Energies) and applied mathematics / HPC (solving large linear systems, computational fluid mechanics ).
 
 <br>
 
 ### aNews:
-* Hackaton TERATEC is coming soon
+* Hackaton TERATEC is coming soon.
 * Seminar at LJAD the 02/03: thank you for your welcome.
 
 
