@@ -14,7 +14,7 @@ comments: false
 
 <div class="post-container"> 
     <div class="post-content">
-        <h3 class="post-title">The see-through system</h3>
+        <h3 class="post-title"> Compact schemes a quasi-local </h3>
         <p>In this collaboration with Bosch, we propose a real-time marker-less system to see through cars.
 		For this purpose, two cars are equipped with cameras and an appropriate wireless communication system.
 		The stereo vision system mounted on the front car allows to create a sparse 3D map of the environment where the rear car can be localized.
@@ -49,7 +49,7 @@ comments: false
 
 ---
 <br>
-### Camera calibration
+### Stratrified Rotating flows
 ----
 
 
