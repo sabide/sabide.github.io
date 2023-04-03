@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: Welcome!
+title: About me !
 description: "Personal web page"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
