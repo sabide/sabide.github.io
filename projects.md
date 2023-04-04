@@ -15,7 +15,7 @@ The compact finite difference formulation is a numerical discretisation used for
 This method is known for the small computation stencil  while allowing accurate approximations.
 The compact schemes has the advantage of favorable dispersive error and dissipative error properties when compared to explicit schemes.
 However, this method has a drawback as it is implicit and requires solving a diagonal matrix system to evaluate interpolations or derivatives at all grid points.
-So it remains a challenge to solve elliptical sss problems optimally with modern HPC... part of my work is devoted to this.
+So it remains a challenge to solve elliptic problems optimally with modern HPC... part of my work is devoted to this.
 *page under construction*
 
 <div class="post-container"> 
@@ -24,7 +24,7 @@ So it remains a challenge to solve elliptical sss problems optimally with modern
         <p>
 		For 5 years I have been developing a computational code dedicated to the high-performance numerical simulation of incompressible flows in shoeboxes ( referring to the computational domain).
 		With this specific tool for compact schemes one can solve the incompressible Naviers-Stokes equations in an *old school way*: semi implicit time scheme, full-staggered.
-		This allows me to test new ideas about compact schemes, especially the fact that they can be HPC-compliant rPDD (Abide,2017), (Abide,2018),  (Abide,202) .
+		This allows me to test new ideas about compact schemes, especially the fact that they can be HPC-compliant rPDD .
 <a href="https://doi.org/10.1016/j.cam.2020.112872">[JCAM]</a> 
 <a href="https://doi.org/10.1016/j.compfluid.2018.07.016">[CaF], </a>
 
