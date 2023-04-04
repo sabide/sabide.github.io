@@ -9,7 +9,7 @@ comments: false
 
 ---
 <br>
-# High-Perpformance Computing for Higher-order 
+# High-Perpformance Computing for Higher-Order discretisations
 ----
 The compact finite difference formulation is a numerical discretisation used for computing finite difference approximations.
 This method is known for the small computation stencil  while allowing accurate approximations.
