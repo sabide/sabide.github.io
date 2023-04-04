@@ -42,7 +42,7 @@ So it remains a challenge to solve elliptical sss problems optimally with modern
 		This flow is known to be difficult to simulate due to its multi-scale characteristics (IGW, 2d turbulence).
 		In addition, heat transfers at the free surface can modify the dynamics of the baroclinic wave, making it more difficult to compare numerical calculations with experiments.
 		<a href="https://doi.org/10.5194/egusphere-egu21-7003">[EGU]</a> 
-		<a href="https://doi.org/10.1080/03091929.2020.1795647">[GAFD], </a>
+		<a href="https://doi.org/10.1080/03091929.2020.1795647">[GAFD]</a>
 		</p>
 		
 <br />
