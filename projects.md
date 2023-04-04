@@ -30,7 +30,7 @@ So it remains a challenge to solve elliptical sss problems optimally with modern
 
 	</p>
 	</div>
-		<div class="post-thumb"><img src="/images/STC-2.png" /></div>
+		<div class="post-thumb"><img src="/images/Diapositive1.png" /></div>
 	</div>
 
 
