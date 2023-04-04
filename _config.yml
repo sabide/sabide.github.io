@@ -6,7 +6,7 @@ url: ""#             //rameau-fr.github.io
 # Owner/author information
 owner:
   name:           Stéphane Abide
-  avatar:         Francois_Rameau.jpeg
+  avatar:         images.jpeg
   bio:            Associate Professor
   location:       Perpignan, France
   email:          stephane.abide@univ-perp.fr
@@ -34,7 +34,7 @@ links:
 #  - title: Teaching
 #    url: /teaching/
 #  - title: Resume
-#    url: /pdf/CV_Francois_Rameau-20-09-2022.pdf
+#    url: /pdf/CV_Stephane_ABIDE.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #timezone:    Europe/Zurich
