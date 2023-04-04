@@ -9,7 +9,7 @@ comments: false
 
 ---
 <br>
-# High-Perpformance Computing for Simulation
+# High-Perpformance Computing for Higher-order schemes
 ----
 The compact finite difference formulation is a numerical discretisation used for computing finite difference approximations.
 This method is known for the small computation stencil  while allowing accurate approximations.
@@ -57,6 +57,13 @@ So it remains a challenge to solve elliptical sss problems optimally with modern
 		</p>
 <br />
 -->
+
+---
+<br>
+# Non-smooth mechanics (under construction)
+----
+
+<br />
 
 
 
