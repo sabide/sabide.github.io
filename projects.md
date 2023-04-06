@@ -33,10 +33,9 @@ So it remains a challenge to solve elliptic problems optimally with modern HPC..
 		<div class="post-thumb"><img src="/images/Diapositive1.png" /></div>
 	</div>
 
-
 <div class="post-container"> 
     <div class="post-content">
-        <h3 class="post-title"> SRI - Barocinic waves </h3>
+        <h3 class="post-title"> SRI - Baroclinic waves </h3>
 		<p>
 		High performance computing is motivated by the challenges of fluid physics.
         In this project led by Uwe Harlander, we try to perform both experiments and numerical simulations to demonstrate that the baroclinic tank can be a useful model for atmospheric flows.
@@ -46,6 +45,15 @@ So it remains a challenge to solve elliptic problems optimally with modern HPC..
 		<a href="https://doi.org/10.1080/03091929.2020.1795647">[GAFD]</a>
 		</p>
 		
+   	<div class="post-container"> 
+		<div class="post-content">
+			<h3 class="post-title"> Chebyshev-collocation spectral method </h3>
+		<p>
+Over the last few months I have been working on the implementation of this method in HOCS^3.
+		I am focusing on the differentially heated turbulent cavity at high Rayleigh number to assess LES SVV model.
+		The first results are encouraging. 
+		</p>
+
 <br />
 
 <!--
